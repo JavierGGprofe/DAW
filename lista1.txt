@@ -2,3 +2,5 @@ peras
 manzanas
 naranjas
 limones
+fresas
+
